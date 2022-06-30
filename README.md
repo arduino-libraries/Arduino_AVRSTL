@@ -1,3 +1,5 @@
+*Note: This library is no longer maintained by Arduino and has therefore been archived. An actively maintained version can be found [here](https://github.com/mike-matera/ArduinoSTL).*
+
 Arduino_AVRSTL
 ===============
 Arduino library providing STL for ArduinoCore-avr and ArduinoCore-megaavr boards.
